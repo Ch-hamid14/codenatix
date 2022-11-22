@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/home.scss';
 import chatbot from '../assets/chatbot.png';
-import {AiFillInstagram,AiFillFacebook, AiFillYoutube, AiFillTwitterCircle, AiFillGithub, AiFillMail} from 'react-icons/ai';
+import {AiFillInstagram,AiFillFacebook, AiFillTwitterCircle, AiFillMail} from 'react-icons/ai';
 const Home = () => {
   return (
       <>

@@ -24,6 +24,10 @@ nav{
   &:hover{
       color: blue;
   }
+  &:active{
+    background-color: red;
+    color: #fff;
+  }
 }
 }
 }
