@@ -1,0 +1,62 @@
+.wraper{
+    padding-left: 10%;
+}
+.main-div{
+    border-radius: 100px;
+    margin-top: 30px;
+    width: 500px;
+    box-shadow: 10px 10px 10px -15px;
+    transition: 0.5s;
+    animation: ease-in-out;
+    padding-left: 30px;
+    background-color:rgba(123, 123, 123, 0.788);
+    height: 95%;
+    &:hover{
+        transform: scale(1.1);
+        box-shadow: 0px 15px 15px 0px;
+    }
+}
+.card-content{
+    margin: 1rem;
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.title{
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top:10px ;
+}
+.btn button{
+    border: none;
+    border-radius: 5px;
+    font: 1rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    background-color: #5853ff;
+    transition: 0.2s;
+    border: none;
+    text-transform: uppercase;
+    &:hover{
+        opacity: 0.7;
+    }
+}
+.shape{
+    background-color: rgba(123, 123, 123, 0.199);
+    display: flex;
+}
+img{
+    padding-top: 20px;
+    align-items: center;
+}
