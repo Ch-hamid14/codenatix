@@ -27,7 +27,7 @@ const Services = () => {
           Cloud Engineer,MERN,MEAN,Android,IOS Expert.
           </div>
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
     </div>
@@ -47,7 +47,7 @@ const Services = () => {
             Dot-net Developer.
           </div>
           <div className="btn">
-            <button className='setbtn'><a href="">View More</a></button>
+            <button className='setbtn'><a href="/#about">View More</a></button>
           </div>
           </div>
           
@@ -70,7 +70,7 @@ const Services = () => {
             Figma,Adobe,Office Expert.
           </div> 
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
     </div>
@@ -90,7 +90,7 @@ const Services = () => {
             React-Js,Angular-JS,Vue-JS Expert.
           </div>
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
           
@@ -114,7 +114,7 @@ const Services = () => {
             Angular-JS,Vue-Js,React-JS expert.
           </div>
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
     </div>
@@ -134,7 +134,7 @@ const Services = () => {
             Etsy,Shopify,Ali-Baba.
           </div>
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
     </div>
@@ -156,7 +156,7 @@ const Services = () => {
             Unity-3D,Unreal-Engine-5.          
             </div>
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
     </div>
@@ -176,7 +176,7 @@ const Services = () => {
             Unity-3D,Unreal-Engine-5.
           </div>
           <div className="btn">
-            <button><a href="">View More</a></button>
+            <button><a href="/#about">View More</a></button>
           </div>
           </div>
     </div>

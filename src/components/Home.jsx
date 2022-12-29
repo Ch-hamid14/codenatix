@@ -24,7 +24,7 @@ const Home = () => {
       <div>
         <h1>Who we are?</h1>
         <p>We are Professional Developers.We managing all kinds of Projects and
-          give better advice to non-tech clients and solve all her/him Problems the he/she face
+          give better advice to non-tech clients and solve all her/him Problems that he/she face
           in real life.We build many kind of Projects like E-Commerce Websites,Bloging Sites,Point of Sale
           Softwares.Our Goal is to Provide Better solution to our clients.
         </p>
